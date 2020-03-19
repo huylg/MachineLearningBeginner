@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 x = np.array([5,15,25,35,45,55]).reshape((-1,1))
